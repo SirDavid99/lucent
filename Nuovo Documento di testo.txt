@@ -1,0 +1,4 @@
+mv index_v4.html index.html
+rm index_v1.html index_v2.html index_v3.html
+git add .
+git commit -m "Replace all previous index versions with v4"
